@@ -11,7 +11,7 @@ function StartPage() {
         <h1>Let's get started!</h1>
       </div>
       <div className="link-container">
-        <input type="text" placeholder="http://party.privoce.com/ky.dUHASL3u1jm0KAASI3ASASW23" />
+        <input type="text" value="http://party.privoce.com/ky.dUHASL3u1jm0KAASI3ASASW23" />
         <h2>That's your party link. Go share it!</h2>
         <label>
           <input type="checkbox" name="control" id="control-checker" /> Only I have control
