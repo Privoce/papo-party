@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5c00da;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 600 16px Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
