@@ -6,12 +6,14 @@
 
 body {
   background-color: #5c00da;
+  width: 370px;
+  height: 460px;
 }
 
 body,
 input,
 button,
 textarea {
-  font: 600 16px Montserrat, sans-serif;
+  font: 600 13px Montserrat, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
